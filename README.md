@@ -31,10 +31,6 @@ Based on my GitHub repositories, it looks like my most popular programming langu
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LawrenceY-B&layout=compact&theme=dracula)](https://github.com/LawrenceY-B)
 
-## 🏆 My GitHub Activity
-
-[![Your Name's GitHub Activity](https://activity-graph.herokuapp.com/graph?username=LawrenceY-B&theme=dracula)](https://github.com/LawrenceY-B)
-
 
 ## 📚 Learning New Skills
 
