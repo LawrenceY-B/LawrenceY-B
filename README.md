@@ -16,11 +16,6 @@ Here are some ideas to get you started:
 
 I'm a FrontEnd Engineer who is aspiring to be a FullStack Developer. I have experience working with Angular and Node.js frameworks, and I am proficient in HTML5, CSS, Sass, JavaScript, and TypeScript. I am always learning new skills and looking for opportunities to expand my knowledge and expertise. 💻🌱
 
-## 🚀 GitHub Activity
-
-Here's a quick snapshot of my recent activity on GitHub:
-
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=LawrenceY-B&show_icons=true&theme=dracula)](https://github.com/LawrenceY-B)
 
 ## 🔥 My Most Popular Language
 
